@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MyMathTest
+comment0.text=\r\n\ To\ test\ the\ capabilities\ of\ MyMath\ maths\ functions.\r\n\ \r\n\ @author\ (Reece\ Gavin\ and\ Fred\ Leonard)\ \r\n\ @ID\ Numbers\ Reece\ -\ 17197589,\ Fred\ -\ 17234727\r\n\ @version\ (\ last\ modified\ 5/10/17)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

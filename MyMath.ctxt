@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=MyMath
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyMath\ here.\r\n\ \r\n\ @author\ (Reece\ Gavin)\ \r\n\ @version\ (Last\ modified\ 4/10/17)\r\n
+comment1.params=a\ b\ c\ d
+comment1.target=double\ Mean4(double,\ double,\ double,\ double)
+comment10.params=a\ b\ c
+comment10.target=int\ countNumberOfRealRoots(int,\ int,\ int)
+comment2.params=a\ b\ c
+comment2.target=int\ Max(int,\ int,\ int)
+comment3.params=a\ b\ c
+comment3.target=double\ max(double,\ double,\ double)
+comment4.params=n
+comment4.target=long\ Factorial(int)
+comment5.params=n\ k
+comment5.target=long\ biCoeff(int,\ int)
+comment6.params=a\ b
+comment6.target=double\ power(double,\ int)
+comment7.params=a
+comment7.target=int\ sum(int)
+comment8.params=celcius
+comment8.target=double\ convertCelciusToFahrenheit(double)
+comment9.params=ambientTemp\ velocity
+comment9.target=double\ computeWindChillTemp(double,\ double)
+numComments=11
